@@ -32,7 +32,7 @@
 
 2.  **Клонируйте этот репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.git
+    git clone https://github.com/Rewixx-png/rewhost-vps-setup.git
     ```
 
 3.  **Перейдите в папку со скриптами:**
